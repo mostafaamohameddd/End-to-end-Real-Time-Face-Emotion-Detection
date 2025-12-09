@@ -1,0 +1,15 @@
+# Ignore virtual environment directories
+webcam_env/
+venv/
+env/
+
+# 
+__pycache__/
+*.py[cod]
+
+#
+.DS_Store
+  
+
+
+# best_raf_db_model.pth
