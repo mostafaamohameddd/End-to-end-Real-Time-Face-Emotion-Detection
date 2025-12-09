@@ -7,20 +7,20 @@ The system supports **live webcam inference** and **static image analysis**, del
 ---
 
 ## Table of Contents
- 1. Overview  
- 2. Live Demo  
- 3. Key Features  
- 4. System Architecture  
- 5. Model & Dataset  
- 6. Tech Stack  
- 7. Installation & Local Usage  
- 8. Docker Deployment  
- 9. Hugging Face Deployment  
- 10. Project Structure
- 11. Performance Considerations  
- 12. Limitations & Future Work  
- 13. License  
- 14. Author  
+1. Overview  
+2. Live Demo  
+3. Key Features  
+4. System Architecture  
+5. Model & Dataset  
+6. Tech Stack  
+7. Installation & Local Usage  
+8. Docker Deployment  
+9. Hugging Face Deployment
+10. 10. Project Structure
+11. Performance Considerations  
+12. Limitations & Future Work  
+13. License  
+14. Author  
 
 ---
 
