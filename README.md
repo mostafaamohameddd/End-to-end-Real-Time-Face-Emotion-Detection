@@ -4,10 +4,6 @@
 A production-grade computer vision application for real-time facial emotion recognition using a fine-tuned **ResNet50 (PyTorch)** model trained on the **RAF-DB** dataset.  
 The system supports **live webcam inference** and **static image analysis**, delivered through a modern web interface and deployed using **Docker on Hugging Face Spaces** for high availability.
 
-<video src="./assets/mo_test.mp4" controls="controls" width="100%">
-  Your browser does not support the video tag.
-</video>
-
 
 ---
 
@@ -46,6 +42,13 @@ The application is publicly deployed and fully functional:
 
 🔗 **Hugging Face Spaces (Live Webcam + Image Upload)**  
 https://huggingface.co/spaces/mostafaamohamedd14/Face-Emotion-Detector-Live
+
+
+
+https://github.com/user-attachments/assets/36039d3e-23f9-4a54-80d8-84e53f313fa9
+
+
+
 
 ---
 
